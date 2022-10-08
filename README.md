@@ -20,7 +20,7 @@ QR Code Generator and QR Code Scanner Using HTML, CSS, JavaScript and Jquery  <b
 <br>
 <br>
 <br>
-![alt text](1.png)
+![alt text](https://github.com/MohammadZeeshan01/QR_code_genrator-Scanner/blob/main/1.png)
 <br>
 <br>
 <br>
