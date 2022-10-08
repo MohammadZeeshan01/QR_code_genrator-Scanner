@@ -14,7 +14,7 @@
 
 ### - About Working of this Project
 
-QR Code Generator and QR Code Scanner Using HTML, CSS, JavaScript and Jzquery  <br> 
+QR Code Generator and QR Code Scanner Using HTML, CSS, JavaScript and Jquery  <br> 
 
 
 <br>
