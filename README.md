@@ -9,25 +9,10 @@
 <br>
 <br>
 
-[Live Demo](https://name-conversionbyzee.netlify.app)
+[Live Demo](https://zeeshanqr.netlify.app/)
 
 
 ### - About Working of this Project
 
 QR Code Generator and QR Code Scanner Using HTML, CSS, JavaScript and Jquery  <br> 
 
-
-<br>
-<br>
-<br>
-![alt text](https://github.com/MohammadZeeshan01/QR_code_genrator-Scanner/blob/main/1.png)
-<br>
-<br>
-<br>
-![alt text](2.png)
-<br>
-<br>
-![alt text](3.png)
-<br>
-<br>
-![alt text](4.png)
